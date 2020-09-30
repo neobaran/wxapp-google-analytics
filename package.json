@@ -1,6 +1,6 @@
 {
-    "name": "wxapp-ga",
-    "version": "1.2.1",
+    "name": "@neobaran/wxapp-ga",
+    "version": "1.2.2",
     "description": "Google Analytics SDK for Wechat's Mini Program",
     "keywords": [
         "Google Analytics",
@@ -12,7 +12,7 @@
     "license": "BSD",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rchunping/wxapp-google-analytics.git"
+        "url": "https://github.com/neobaran/wxapp-google-analytics.git"
     },
     "main": "./ga.js",
     "types": "./ga.d.ts",
