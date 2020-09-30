@@ -1,4 +1,4 @@
-declare module 'wxapp-ga' {
+declare module '@neobaran/wxapp-ga' {
 
 
     interface Map<T> {
